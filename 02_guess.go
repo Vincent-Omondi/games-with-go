@@ -1,4 +1,4 @@
-package main
+cd package main
 
 import (
 	"bufio"
